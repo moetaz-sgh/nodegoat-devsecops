@@ -1,0 +1,2 @@
+# Synthetic test value - NOT a real credential
+AWS_ACCESS_KEY_ID=AKIA7K2M4R6T3Y5W2P7M
