@@ -1,0 +1,2 @@
+# Synthetic test secret - NOT a real credential
+API_KEY=sk_test_abcdefghijklmnopqrstuvwxyz123456
